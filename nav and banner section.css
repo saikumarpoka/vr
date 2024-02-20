@@ -1,0 +1,185 @@
+.vr-logo {
+    width: 50px;
+}
+
+#nav-item1 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+#nav-item2 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+#nav-item3 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+#nav-item4 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+.view-more-button {
+    color: #ffffff;
+    background-color: #1a2137;
+    border-radius: 5px;
+    width: 100px;
+}
+
+.banner-heading {
+    color: #ffffff;
+    font-family: Roboto;
+    font-weight: 500;
+}
+
+.banner-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/vr-banner-bg.png");
+    height: 100vh;
+    background-size: cover;
+}
+
+.features-heading {
+    font-size: 34px;
+    font-weight: bold;
+    width: 100px;
+}
+
+
+.features-card-heading {
+    font-size: 32px;
+    font-weight: 400;
+}
+
+.interaction-inline-style {
+    font-style: italic;
+    font-weight: bold;
+}
+
+.vr-kit-img {
+    width: 250px;
+    height: 300px;
+}
+
+.vr-kit-heading {
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.vr-kit-card-heading {
+    font-size: 20px;
+    color: #323f4b;
+}
+
+.optics-section-heading {
+    color: #1f2933;
+    font-weight: bold;
+}
+
+.optics-secction-description {
+    color: #7b8794;
+    font-size: 24px;
+}
+
+.optics-section-button {
+    background-color: #1a2137;
+    color: #ffffff;
+    width: 110px;
+    height: 40px;
+    border-radius: 5px;
+}
+
+.contact-us-section {
+    background-color: #222b36;
+    width: fit-content;
+}
+
+.contact-us-section-heading {
+    color: #ffffff;
+}
+
+.contact-us-button {
+    color: #ffffff;
+    border-style: solid;
+    border-width: 2px;
+    background-color: transparent;
+    border-color: #ffffff;
+    width: 120px;
+    height: 40px;
+   
+}
+
+.amazon {
+    color: #959ead;
+}
+
+.bs-card-description {
+    color: #323f4b;
+    font-size: 20px;
+}
+
+.read-more-text {
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.ps-card-bg-img1 {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/vr-products-headset-img.png");
+    background-size: cover;
+    height: 100vh;
+}
+
+.product-card-heading {
+    color: #ffffff;
+}
+
+.product-card-price {
+    color: #ffffff;
+}
+
+.product-card-button {
+    background-color: transparent;
+    color: #ffffff;
+    border-style: solid;
+    border-color: #ffffff;
+    width: 90px;
+}
+
+.ps-card-bg-img2 {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/vr-products-headset-with-controllers-img.png");
+    background-size: cover;
+    height: 100vh;
+}
+
+.footer-section {
+    width: fit-content;
+}
+
+.icon {
+    background-color: #202b36;
+    border-radius: 30px;
+    font-size: 30px;
+    height: 60px;
+    width: 60px;
+    color: #5a7184;
+}
+
+.vr-logo1 {
+    width: 60px;
+}
+
+
+.fs-text-1 {
+    color: #5a7184;
+    font-size: 20px;
+}
+
+.fs-contact-us {
+    color: #5a7184;
+}
+
+.fs-let-us-help-you {
+    color: #5a7184;
+}
